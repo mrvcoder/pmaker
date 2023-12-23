@@ -13,6 +13,7 @@ OR just download the binary file and use it  from relases :)
 
 
 ## Usage
+wordlist should be line by line (should have \n)
 ```
 Param Maker - Make Parameters From List Of Words :D
 -----------------------------------------------------------------------------
