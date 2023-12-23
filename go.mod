@@ -1,6 +1,6 @@
 module github.com/mrvcoder/pmaker
 
-go 1.21
+go 1.21.3
 
 require github.com/projectdiscovery/gologger v1.1.12
 
